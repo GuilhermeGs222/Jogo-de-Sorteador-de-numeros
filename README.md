@@ -1,4 +1,4 @@
-<h1>Aplicativo de Sorteador de Numero</h1>
+<h1>Aplicativo do Sorteador de Numero</h1>
 
 <h2> Sobre</h2>
 <p>O aplicativo web é uma ferramenta simples desenvolvida com HTML, CSS e JavaScript, com o objetivo de sortear números aleatórios. Ao acessar a página, o usuário encontra um botão que, ao ser clicado, gera um número aleatório dentro de um intervalo predefinido (por exemplo, de 1 a 100). O número sorteado é exibido na tela, proporcionando uma interação rápida e visual com o usuário. O HTML é responsável pela estrutura da página, o CSS pela estilização e o JavaScript pela lógica de sorteio dos números. O design da interface é simples e direto, com foco na usabilidade..</p>
